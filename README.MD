@@ -1,0 +1,1 @@
+A machine learning–based fraud detection system for credit card transactions, built with Python, Flask, and scikit‑learn. The app classifies transactions as **fraudulent** or **legitimate** based on merchant, location, amount, and time features.
